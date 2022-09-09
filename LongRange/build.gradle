@@ -2,7 +2,7 @@ plugins {
     id 'com.android.library'
     id 'com.github.dcendents.android-maven'
 }
-group ='com.gtihub.kaixinjiuxiao'
+group ='com.github.kaixinjiuxiao'
 
 android {
     compileSdkVersion 32
